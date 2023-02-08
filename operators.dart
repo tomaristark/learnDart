@@ -11,7 +11,7 @@ void main() {
 
 
 
-//Areithmetic oprators + - * / %(modulus =a kyinn)
+//Areithmetic oprators + - * / % -expr(modulus =a kyinn)
 var x =30;
 var y = 20;
 print(x + y);// print(50)
@@ -20,6 +20,7 @@ print(x *y);//print(600)
 print( x /y);// print(1.5) print with double
 print( x ~/ y); //print(1) print with integer
 print( x % y);// print(10)
+print( -x); // unary minus
 
 //Assigment operators =,+=,-=,!=,~/=,%=
  var j = ("mgmg");

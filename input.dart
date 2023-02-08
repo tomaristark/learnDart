@@ -11,6 +11,6 @@ void main() {
   print("your age is $num ");
 
   print("enter your gradeing :");
-  double datthama =double.parse(stdin.readLineSync()!);
+  double?datthama =double.parse(stdin.readLineSync()!);
   print(" the grade $datthama");
 }

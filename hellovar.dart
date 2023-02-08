@@ -1,7 +1,7 @@
 void main(){ //code block = in curly bracket
   print("hello dart"); //print function
 
-  /*var =variable which store code 
+  /*var =variable which store code  // can change value
   x = identifier ,variable name
   can't start with number can use underscore and dollarsign
 can't use space */
@@ -15,5 +15,8 @@ can't use space */
   mgmg=85;//over write
   print(mgmg);
 
-  
+  // dart constant  cannnot change the value
+  const a = 23;
+  //a = 21; // can't assign to const variable
+  print(a);
 }
