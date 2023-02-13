@@ -47,7 +47,7 @@ void main() {
 // d[0]= 31;// add value to fixed length list  by indedx result[ 31,10,10,10,10 ]
 // print(d);
 /*--------------------------------------------------------------------------------------------------------------------------------------------------------------*/
-//SET cannot store same value//  unordered collection ,can store unique ithem
+//SET cannot store same value//  unordered collection ,can store unique items
 //doesn't print duplicate items
 // var sets = {10,20,30,30};// result {10,20,30}
 // sets.add(50);// adding value
