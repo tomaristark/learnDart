@@ -94,4 +94,18 @@ void main(){
 //    }
 //    print(a);
 //    }
+// sort ascending order  in list
+  //   var l = [12,21,3,2,31,832,321];
+  //  var d = l.length;
+  //   var a =[];
+  //   for( int i=0; i < d; i++){
+  //   int y = 1000000;
+  //   for ( int  x in l){
+  //     if( x < y){
+  //        y = x ;
+  //     }
+  //   }a.add(y);
+  //   l.remove(y);
+  //   } 
+  //   print(a);
 }
